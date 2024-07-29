@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2fad0292c1880aa4b8198c12a43ff666
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - plane: {instanceID: 0}
+  - mainCamera1: {instanceID: 0}
+  - mainCamera2: {instanceID: 0}
+  - player1: {instanceID: 0}
+  - player2: {instanceID: 0}
+  - wallPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
